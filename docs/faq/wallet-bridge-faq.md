@@ -31,7 +31,8 @@ MATIC tokens
 
 ## How do I deposit to Matic Wallet and also withdraw?
 
-These blogs and videos are a perfect guide to start with depositing and withdrawing: [https://docs.matic.network/docs/develop/wallets/matic-web-wallet/web-wallet-v2-guide/#depositing-funds-from-ethereum-to-matic](https://docs.matic.network/docs/develop/wallets/matic-web-wallet/web-wallet-v2-guide/#depositing-funds-from-ethereum-to-matic)[https://www.youtube.com/playlist?list=PLslsfan1R_z0Epvnqsj29V1LBAh99dzu9](https://www.youtube.com/playlist?list=PLslsfan1R_z0Epvnqsj29V1LBAh99dzu9)
+These blogs and videos are a perfect guide to start with depositing and withdrawing: [https://docs.matic.network/docs/develop/wallets/matic-web-wallet/web-wallet-v2-guide/#depositing-funds-from-ethereum-to-matic](https://docs.matic.network/docs/develop/wallets/matic-web-wallet/web-wallet-v2-guide/#depositing-funds-from-ethereum-to-matic)
+Video guide [https://www.youtube.com/playlist?list=PLslsfan1R_z0Epvnqsj29V1LBAh99dzu9](https://www.youtube.com/playlist?list=PLslsfan1R_z0Epvnqsj29V1LBAh99dzu9)
 
 ## How to switch to Polygon mainnet in Metamask?
 
@@ -39,11 +40,14 @@ Assuming that you have already added the network and custom RPC for Matic mainne
 
 1. Open your Metamask wallet and click on the network dropdown to expand as shown in figure:
 
-[https://lh5.googleusercontent.com/0Od3W3sy7nxQDY06EN22SjqdMuwzJBnF4I5zVPTSLkOZ2ycjLTri048ttVnzFTmya6IHKzlm3cYH9Zv-zN5cWmcwdK2e4Uq1OVfUPof24-5imaRju1uz1skGWDjSbBy4yrgY1Aoo](https://lh5.googleusercontent.com/0Od3W3sy7nxQDY06EN22SjqdMuwzJBnF4I5zVPTSLkOZ2ycjLTri048ttVnzFTmya6IHKzlm3cYH9Zv-zN5cWmcwdK2e4Uq1OVfUPof24-5imaRju1uz1skGWDjSbBy4yrgY1Aoo)
+![Select the network](https://i.imgur.com/JlIlMjA.png)
+<!-- [https://lh5.googleusercontent.com/0Od3W3sy7nxQDY06EN22SjqdMuwzJBnF4I5zVPTSLkOZ2ycjLTri048ttVnzFTmya6IHKzlm3cYH9Zv-zN5cWmcwdK2e4Uq1OVfUPof24-5imaRju1uz1skGWDjSbBy4yrgY1Aoo](https://imgur.com/a/uiqQuwH.png) -->
 
-1. Once the window expands you can select Matic Network to switch.
+2. Once the window expands you can select Matic Network to switch.
 
-[https://lh6.googleusercontent.com/wEW3bZ8F_MowOEJ1qyZT7vjBbb4H6pzU9Xnr9kEzJKmp8TXxqOox-ONmebCQSg4Ebvpogc0lscG9yi11yY_lHbcy_Xz0yVpA_mkimzAEUYI15NWSsM8OA9KqHxTZ2gVhVV-gDndz](https://lh6.googleusercontent.com/wEW3bZ8F_MowOEJ1qyZT7vjBbb4H6pzU9Xnr9kEzJKmp8TXxqOox-ONmebCQSg4Ebvpogc0lscG9yi11yY_lHbcy_Xz0yVpA_mkimzAEUYI15NWSsM8OA9KqHxTZ2gVhVV-gDndz)
+![Change network](https://i.imgur.com/Af8Z3ga.png)
+
+<!-- [https://lh6.googleusercontent.com/wEW3bZ8F_MowOEJ1qyZT7vjBbb4H6pzU9Xnr9kEzJKmp8TXxqOox-ONmebCQSg4Ebvpogc0lscG9yi11yY_lHbcy_Xz0yVpA_mkimzAEUYI15NWSsM8OA9KqHxTZ2gVhVV-gDndz](https://lh6.googleusercontent.com/wEW3bZ8F_MowOEJ1qyZT7vjBbb4H6pzU9Xnr9kEzJKmp8TXxqOox-ONmebCQSg4Ebvpogc0lscG9yi11yY_lHbcy_Xz0yVpA_mkimzAEUYI15NWSsM8OA9KqHxTZ2gVhVV-gDndz) -->
 
 You have now switched to Polygon mainnet.
 
@@ -59,7 +63,9 @@ You need to manually add the custom token address of WETH to Metamask.
 
 Open Metamask and scroll down to click on add tokens.
 
-[https://lh6.googleusercontent.com/KXBiSkXtLJaP6f1uEeYOOU6Suj7II6g3Nw5EXLklIWujd7_Q56Bn5yfsRpZD5ouB87-qzUHNVmcGWche1G5A2zif0VTZ3rH9GTeuJR2fzi6YvUDCDsGEPWTukjNJbid7klNJwug8](https://lh6.googleusercontent.com/KXBiSkXtLJaP6f1uEeYOOU6Suj7II6g3Nw5EXLklIWujd7_Q56Bn5yfsRpZD5ouB87-qzUHNVmcGWche1G5A2zif0VTZ3rH9GTeuJR2fzi6YvUDCDsGEPWTukjNJbid7klNJwug8)
+![Add Token](https://i.imgur.com/Hiv4vcs.png)
+
+<!-- [https://lh6.googleusercontent.com/KXBiSkXtLJaP6f1uEeYOOU6Suj7II6g3Nw5EXLklIWujd7_Q56Bn5yfsRpZD5ouB87-qzUHNVmcGWche1G5A2zif0VTZ3rH9GTeuJR2fzi6YvUDCDsGEPWTukjNJbid7klNJwug8](https://lh6.googleusercontent.com/KXBiSkXtLJaP6f1uEeYOOU6Suj7II6g3Nw5EXLklIWujd7_Q56Bn5yfsRpZD5ouB87-qzUHNVmcGWche1G5A2zif0VTZ3rH9GTeuJR2fzi6YvUDCDsGEPWTukjNJbid7klNJwug8) -->
 
 Then, select Custom Token to add the relevant contract address, symbol and the decimal precision. Contract addresses (PoS-WETH in this case) can be found on this link: [https://docs.matic.network/docs/develop/network-details/mapped-tokens/](https://docs.matic.network/docs/develop/network-details/mapped-tokens/)
 
@@ -69,7 +75,8 @@ Decimal of precision is 18 for WETH (generally, for most tokens decimal of preci
 
 Once you fill in all the fields, you can click on next and your token will be added.
 
-[https://lh3.googleusercontent.com/xlHZO9N35Y7qRHVHoYdoXLHrGpDRCkd6ZM7bBD3mwi24lbwjJBW3AVWCRYMTRKem-vsj-3h0C1Hs1HpWHWlcAfGlpjZCXoEWYETYT3MXGCukqGhmDc2uOtr3LlOoPSJFJt_RfQ__](https://lh3.googleusercontent.com/xlHZO9N35Y7qRHVHoYdoXLHrGpDRCkd6ZM7bBD3mwi24lbwjJBW3AVWCRYMTRKem-vsj-3h0C1Hs1HpWHWlcAfGlpjZCXoEWYETYT3MXGCukqGhmDc2uOtr3LlOoPSJFJt_RfQ__)
+![Token Details](https://i.imgur.com/Msxmr2v.png)
+<!-- [https://lh3.googleusercontent.com/xlHZO9N35Y7qRHVHoYdoXLHrGpDRCkd6ZM7bBD3mwi24lbwjJBW3AVWCRYMTRKem-vsj-3h0C1Hs1HpWHWlcAfGlpjZCXoEWYETYT3MXGCukqGhmDc2uOtr3LlOoPSJFJt_RfQ__](https://lh3.googleusercontent.com/xlHZO9N35Y7qRHVHoYdoXLHrGpDRCkd6ZM7bBD3mwi24lbwjJBW3AVWCRYMTRKem-vsj-3h0C1Hs1HpWHWlcAfGlpjZCXoEWYETYT3MXGCukqGhmDc2uOtr3LlOoPSJFJt_RfQ__) -->
 
 ## Can I send my tokens from Matic to any other wallet/exchange ?
 
